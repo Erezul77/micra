@@ -21,3 +21,6 @@ Micra is an open-source initiative to transform the future of microbiome-based e
 - `vision.md` – Manifesto and long-form description
 - `roadmap.md` – Phased roadmap and milestones
 
+## 📄 Grant Materials
+
+- [Download Micra Grant Pitch Deck (PPTX)](https://github.com/Erezul77/micra/blob/main/deck/Micra_Grant_Pitch_Deck.pptx?raw=true)
